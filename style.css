@@ -40,6 +40,9 @@ li {
     max-width: 800px;
     margin: 0 auto;
 }
+.text__purple {
+    color: #6030b1;
+}
 
 .text--purple {
     color: #6030b1;
@@ -113,6 +116,8 @@ nav {
 
  .about-me__picture {
  width: 100%;
+ margin: auto;
+ text-align: center;
  
 
 /* improving my own picture */
@@ -130,4 +135,10 @@ padding-top: 8px;
      text-align: center;
      font-size: 20px;
      margin-bottom: 20px;
+ }
+
+ .about-me__link {
+    font-size:20px;
+    text-decoration: none;
+    padding: 0 18px;
  }
